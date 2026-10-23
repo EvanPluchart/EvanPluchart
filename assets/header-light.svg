@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="200" viewBox="0 0 880 200" role="img" aria-labelledby="t d">
+  <title id="t">Evan Pluchart</title>
+  <desc id="d">Fullstack developer in Reims, France. Next.js and Symfony at work, fast native apps in Rust on the side.</desc>
+  <style>
+    .name { font: 700 52px -apple-system, "Segoe UI", "Helvetica Neue", Arial, sans-serif; fill: #0E1116; letter-spacing: -1.5px; }
+    .line { font: 400 20px -apple-system, "Segoe UI", "Helvetica Neue", Arial, sans-serif; fill: #4B5563; }
+    .tag { font: 600 13px ui-monospace, "SF Mono", "Cascadia Code", Consolas, monospace; fill: #1F7A55; letter-spacing: 1.2px; }
+  </style>
+  <rect width="880" height="200" rx="16" fill="#F6F7F4"/>
+  <rect x="0.5" y="0.5" width="879" height="199" rx="15.5" fill="none" stroke="#E3E6E1"/>
+  <text class="tag" x="48" y="62">REIMS, FRANCE</text>
+  <text class="name" x="46" y="122">Evan Pluchart<tspan fill="#2FB57F">.</tspan></text>
+  <text class="line" x="48" y="160">Fullstack developer. Next.js and Symfony at work, fast native apps in Rust on the side.</text>
+</svg>
